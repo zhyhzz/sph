@@ -76,7 +76,7 @@
 
             .fr {
                 float: right;
-                background-image: url(../images/icons.png);
+                background-image: url(./images/icons.png);
                 width: 66px;
                 height: 25px;
                 background-position: 182px -104px;
